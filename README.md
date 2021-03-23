@@ -9,7 +9,7 @@ This project was about coalescing all of what we have learned so far in the boot
 
 ----------
 
-[![screenshot of homepage](gitAssets\mainPage.png)](https://zacharyeggert.github.io/Collaborative-guitar/)
+[![screenshot of homepage](gitAssets/mainPage.png)](https://zacharyeggert.github.io/Collaborative-guitar/)
 
 ----------
 
@@ -28,7 +28,7 @@ Using these tools we were able to make multiple interactive elements, a click-th
 
 ---------
 
-![screenshot of profile page](gitAssets\profilePage.png)
+![screenshot of profile page](gitAssets/profilePage.png)
 
 ----------
 
